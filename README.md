@@ -15,7 +15,6 @@
 | 🌱 I’m currently learning **TSX, NodeJS, PostgreSQL, Cypress, Jest** | 🌱 Ezeket tanulom éppen: **TSX, NodeJS, PostgreSQL, Cypress, Jest** |
 | 🚀 All of my projects will be available **[soon](#)** | 🚀 A projektjeim **[hamarosan](#)** elérhetőek lesznek |
 | 💬 Ask me about **anything related to frontend** | 💬 Kérdezz bátran **bármiről, ami frontend** |
-| 📫 Connect with me: **[LinkedIn](#) \| [Email](#)** | 📫 Elérhetőségek: **[LinkedIn](#) \| [Email](#)** |
 
 <br/>
 
